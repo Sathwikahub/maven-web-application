@@ -101,11 +101,11 @@
 	      <url>http://localhost:8081/repository/Walmart/</url>
 	    </repository>
 	    
-<!--	    <snapshotRepository>
+	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://localhost:8081/repository/Walmart_Snapshot/</url>
-	    </snapshotRepository> -->
+	    </snapshotRepository> 
 	    
 	</distributionManagement>
 	
